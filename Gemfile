@@ -10,7 +10,7 @@ end
 gem 'rails', '~> 5.1.6'
 # Use sqlite3 as the database for Active Record
 <<<<<<< HEAD
-gem 'sqlite3'
+gem 'pg'
 =======
 gem 'pg'
 >>>>>>> c4480388153b0aee2240a00e4c623d1cdda2ed0d
